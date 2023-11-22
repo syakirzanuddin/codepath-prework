@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Volumes/transcend/Programming/Coding Project/FirstProject/FirstC#Apps/FirstC#Apps.csproj": {}
+    "/Volumes/transcend/Programming/Coding Project/codepath-prework/FirstC#Apps/FirstC#Apps.csproj": {}
   },
   "projects": {
-    "/Volumes/transcend/Programming/Coding Project/FirstProject/FirstC#Apps/FirstC#Apps.csproj": {
+    "/Volumes/transcend/Programming/Coding Project/codepath-prework/FirstC#Apps/FirstC#Apps.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Volumes/transcend/Programming/Coding Project/FirstProject/FirstC#Apps/FirstC#Apps.csproj",
+        "projectUniqueName": "/Volumes/transcend/Programming/Coding Project/codepath-prework/FirstC#Apps/FirstC#Apps.csproj",
         "projectName": "FirstC#Apps",
-        "projectPath": "/Volumes/transcend/Programming/Coding Project/FirstProject/FirstC#Apps/FirstC#Apps.csproj",
+        "projectPath": "/Volumes/transcend/Programming/Coding Project/codepath-prework/FirstC#Apps/FirstC#Apps.csproj",
         "packagesPath": "/Users/syakingsxz/.nuget/packages/",
-        "outputPath": "/Volumes/transcend/Programming/Coding Project/FirstProject/FirstC#Apps/obj/",
+        "outputPath": "/Volumes/transcend/Programming/Coding Project/codepath-prework/FirstC#Apps/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/syakingsxz/.nuget/NuGet/NuGet.Config"

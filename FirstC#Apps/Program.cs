@@ -15,6 +15,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
             myVar = 11;
             Console.WriteLine("a: " + myVar);
             Console.WriteLine("b: " + myVar);
+            Console.WriteLine("c: " + 9);
 
         }
 

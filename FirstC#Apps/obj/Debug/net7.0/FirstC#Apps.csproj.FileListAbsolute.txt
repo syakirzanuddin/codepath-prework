@@ -26,3 +26,17 @@
 /Volumes/transcend/Programming/Coding Project/FirstProject/FirstC#Apps/obj/Debug/net7.0/FirstC#Apps.pdb
 /Volumes/transcend/Programming/Coding Project/FirstProject/FirstC#Apps/obj/Debug/net7.0/FirstC#Apps.genruntimeconfig.cache
 /Volumes/transcend/Programming/Coding Project/FirstProject/FirstC#Apps/obj/Debug/net7.0/ref/FirstC#Apps.dll
+/Volumes/transcend/Programming/Coding Project/codepath-prework/FirstC#Apps/bin/Debug/net7.0/FirstC#Apps
+/Volumes/transcend/Programming/Coding Project/codepath-prework/FirstC#Apps/bin/Debug/net7.0/FirstC#Apps.deps.json
+/Volumes/transcend/Programming/Coding Project/codepath-prework/FirstC#Apps/bin/Debug/net7.0/FirstC#Apps.runtimeconfig.json
+/Volumes/transcend/Programming/Coding Project/codepath-prework/FirstC#Apps/bin/Debug/net7.0/FirstC#Apps.dll
+/Volumes/transcend/Programming/Coding Project/codepath-prework/FirstC#Apps/bin/Debug/net7.0/FirstC#Apps.pdb
+/Volumes/transcend/Programming/Coding Project/codepath-prework/FirstC#Apps/obj/Debug/net7.0/FirstC#Apps.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/transcend/Programming/Coding Project/codepath-prework/FirstC#Apps/obj/Debug/net7.0/FirstC#Apps.AssemblyInfoInputs.cache
+/Volumes/transcend/Programming/Coding Project/codepath-prework/FirstC#Apps/obj/Debug/net7.0/FirstC#Apps.AssemblyInfo.cs
+/Volumes/transcend/Programming/Coding Project/codepath-prework/FirstC#Apps/obj/Debug/net7.0/FirstC#Apps.csproj.CoreCompileInputs.cache
+/Volumes/transcend/Programming/Coding Project/codepath-prework/FirstC#Apps/obj/Debug/net7.0/FirstC#Apps.dll
+/Volumes/transcend/Programming/Coding Project/codepath-prework/FirstC#Apps/obj/Debug/net7.0/refint/FirstC#Apps.dll
+/Volumes/transcend/Programming/Coding Project/codepath-prework/FirstC#Apps/obj/Debug/net7.0/FirstC#Apps.pdb
+/Volumes/transcend/Programming/Coding Project/codepath-prework/FirstC#Apps/obj/Debug/net7.0/FirstC#Apps.genruntimeconfig.cache
+/Volumes/transcend/Programming/Coding Project/codepath-prework/FirstC#Apps/obj/Debug/net7.0/ref/FirstC#Apps.dll
