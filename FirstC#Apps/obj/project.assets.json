@@ -1,0 +1,66 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net7.0": []
+  },
+  "packageFolders": {
+    "/Users/syakingsxz/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Volumes/transcend/Programming/Coding Project/FirstProject/FirstC#Apps/FirstC#Apps.csproj",
+      "projectName": "FirstC#Apps",
+      "projectPath": "/Volumes/transcend/Programming/Coding Project/FirstProject/FirstC#Apps/FirstC#Apps.csproj",
+      "packagesPath": "/Users/syakingsxz/.nuget/packages/",
+      "outputPath": "/Volumes/transcend/Programming/Coding Project/FirstProject/FirstC#Apps/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/syakingsxz/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.403/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
